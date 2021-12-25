@@ -30,7 +30,7 @@ public class LambdaAndStream {
 
 //        System.out.println(IntStream.range(1, 10).count());
 //        System.out.println(IntStream.range(1, 10).limit(5).count());
-//        System.out.println(IntStream.range(1, 10).skip(3 ).count());
+//        System.out.println(IntStream.range(1, 10).skip(3).count());
 
 
 //        List<Integer> list = IntStream.range(1, 10).skip(3).boxed().collect(Collectors.toList());
