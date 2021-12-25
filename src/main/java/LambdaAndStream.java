@@ -28,7 +28,6 @@ public class LambdaAndStream {
 //        s.add(2);
 //        System.out.println(s);
 
-
 //        System.out.println(IntStream.range(1, 10).count());
 //        System.out.println(IntStream.range(1, 10).limit(5).count());
 //        System.out.println(IntStream.range(1, 10).skip(3).count());
